@@ -1,18 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Yash Dubey
 
-- 🔭 I’m currently working on backend development
-- 🌱 I’m currently learning devOps technologies
-- 👯 I’m looking to collaborate on real world projects
-<!--
-**Thenameisyash06/Thenameisyash06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ **AI & Full-Stack Developer | Tech Enthusiast | Lifelong Learner**
 
-Here are some ideas to get you started:
+I'm a Computer Science student passionate about building intelligent systems and clean, user-focused web applications. I enjoy exploring how things work under the hood and turning ideas into reality through code.
 
-- 🔭 I’m currently working on backend development
-- 🌱 I’m currently learning devOps technologies
-- 👯 I’m looking to collaborate on real world projects
-- 💬 Ask me about ...
-- 📫 How to reach me: 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+##  What I Know
+
+- **Languages:** Python, JavaScript, C++
+- **Frontend:** HTML, CSS, JavaScript
+- **Backend:** Node.js, Express.js, REST APIs
+- **AI & ML:** Scikit-learn, Pandas, NLP, CNNs, Minimax
+- **Tools & Platforms:** Git, GitHub, VS Code, AWS, MongoDB, SQL
+
+---
+
+##  Let's Connect!
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/your-link-here)
+- 📧 yashd9404@gmail.com
