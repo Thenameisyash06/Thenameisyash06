@@ -18,5 +18,5 @@ I'm a Computer Science student passionate about building intelligent systems and
 
 ##  Let's Connect!
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/your-link-here)
+- 🔗 LinkedIn - https://www.linkedin.com/in/yash-dubey-407867270/
 - 📧 yashd9404@gmail.com
