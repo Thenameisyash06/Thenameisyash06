@@ -16,11 +16,6 @@ I'm a Computer Science student passionate about building intelligent systems and
 
 ---
 
-##  Let's Connect!
-
-- 🔗 LinkedIn - https://www.linkedin.com/in/yash-dubey-407867270/
-- 📧 yashd9404@gmail.com
-
 ###  Tech Stack
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -34,3 +29,32 @@ I'm a Computer Science student passionate about building intelligent systems and
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+##  Projects
+
+-  [Secure File Sharing System](https://github.com/Thenameisyash06/secure-file-share) – REST APIs, user roles, and file encryption
+-  [Banglore House Price Prediction](https://github.com/Thenameisyash06/BHP) – Pandas, ML algorithm, Python
+-  [School Website](https://github.com/Thenameisyash06/School_website) – Frontend, Backend, REST APIs, Authentication
+-  [URL Shortner](https://github.com/Thenameisyash06/Shorten) – uuid, Session management, URL tracking
+
+---
+
+##  GitHub Stats
+
+![Yash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thenameisyash06&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Thenameisyash06&layout=compact&theme=tokyonight)
+
+---
+
+##  Certifications
+
+- Credly - https://www.credly.com/users/yash-dubey.a09916ed/badges#credly
+
+---
+
+##  Let's Connect!
+
+-  LinkedIn - https://www.linkedin.com/in/yash-dubey-407867270/
+-  yashd9404@gmail.com
