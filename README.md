@@ -3,6 +3,7 @@
  **AI & Full-Stack Developer | Tech Enthusiast | Lifelong Learner**
 
 I'm a Computer Science student passionate about building intelligent systems and clean, user-focused web applications. I enjoy exploring how things work under the hood and turning ideas into reality through code.
+I am intrested in backend developmet and cloud technologies.
 
 ---
 
@@ -12,7 +13,7 @@ I'm a Computer Science student passionate about building intelligent systems and
 - **Frontend:** HTML, CSS, JavaScript
 - **Backend:** Node.js, Express.js, REST APIs
 - **AI & ML:** Scikit-learn, Pandas, NLP, CNNs, Minimax
-- **Tools & Platforms:** Git, GitHub, VS Code, AWS, MongoDB, SQL
+- **Tools & Platforms:** Git, GitHub, VS Code, AWS, MongoDB, SQL, Postman
 
 ---
 
@@ -59,4 +60,4 @@ I'm a Computer Science student passionate about building intelligent systems and
 ##  Let's Connect!
 
 -  LinkedIn - https://www.linkedin.com/in/yash-dubey-407867270/
--  yashd9404@gmail.com
+-  Email - yashd9404@gmail.com
